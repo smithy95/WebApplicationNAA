@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FF5FD042-5B64-40A8-B21A-FB622DA06C99}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NAA App/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="NAA App/Controllers/AccountController.cs" Line="44" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NAA_220App PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

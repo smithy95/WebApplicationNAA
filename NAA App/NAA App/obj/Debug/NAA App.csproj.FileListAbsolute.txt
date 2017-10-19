@@ -1,0 +1,71 @@
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\ApplicationInsights.config
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\NAA App.dll.config
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\NAA App.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\NAA App.pdb
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Antlr3.Runtime.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\EntityFramework.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\EntityFramework.SqlServer.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.DependencyCollector.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.Web.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.WindowsServer.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.ApplicationInsights.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AspNet.Identity.Core.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AspNet.Identity.Owin.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Host.SystemWeb.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.Cookies.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.Facebook.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.Google.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.OAuth.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.Twitter.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Web.Infrastructure.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Newtonsoft.Json.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Owin.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.Helpers.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.Mvc.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.Optimization.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.Razor.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.WebPages.Deployment.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.WebPages.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.WebPages.Razor.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\WebGrease.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.Helpers.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.Mvc.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.Optimization.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.Razor.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.WebPages.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.WebPages.Deployment.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\System.Web.WebPages.Razor.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Antlr3.Runtime.pdb
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Newtonsoft.Json.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\EntityFramework.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\EntityFramework.SqlServer.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AspNet.Identity.Core.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AspNet.Identity.Owin.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Host.SystemWeb.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.Facebook.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.Cookies.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.OAuth.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.Google.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.Twitter.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.ApplicationInsights.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.DependencyCollector.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.WindowsServer.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\bin\Microsoft.AI.Web.xml
+Y:\University\Web Applications\NAA App\NAA App\NAA App\obj\Debug\NAA App.csprojResolveAssemblyReference.cache
+Y:\University\Web Applications\NAA App\NAA App\NAA App\obj\Debug\NAA App.csproj.CoreCompileInputs.cache
+Y:\University\Web Applications\NAA App\NAA App\NAA App\obj\Debug\NAA App.dll
+Y:\University\Web Applications\NAA App\NAA App\NAA App\obj\Debug\NAA App.pdb
