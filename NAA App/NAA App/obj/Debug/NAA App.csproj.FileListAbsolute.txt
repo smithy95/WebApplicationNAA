@@ -140,3 +140,79 @@ Y:\University\Web Applications\NAA\NAA App\NAA App\obj\Debug\NAA App.csprojResol
 Y:\University\Web Applications\NAA\NAA App\NAA App\obj\Debug\NAA App.csproj.CoreCompileInputs.cache
 Y:\University\Web Applications\NAA\NAA App\NAA App\obj\Debug\NAA App.dll
 Y:\University\Web Applications\NAA\NAA App\NAA App\obj\Debug\NAA App.pdb
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\obj\Debug\NAA App.csprojResolveAssemblyReference.cache
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\ApplicationInsights.config
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\NAA App.dll.config
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\NAA App.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\NAA App.pdb
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Antlr3.Runtime.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\EntityFramework.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\EntityFramework.SqlServer.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.DependencyCollector.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.Web.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.WindowsServer.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.ApplicationInsights.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AspNet.Identity.Core.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.Cookies.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.Facebook.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.Google.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.OAuth.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.Twitter.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Web.Infrastructure.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\NAA.Data.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\NAA.Service.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Newtonsoft.Json.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Owin.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.Helpers.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.Mvc.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.Optimization.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.Razor.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.WebPages.Deployment.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.WebPages.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.WebPages.Razor.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\WebGrease.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\NAA.Data.pdb
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\NAA.Data.dll.config
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\NAA.Service.pdb
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.Helpers.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.Mvc.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.Optimization.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.Razor.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.WebPages.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.WebPages.Deployment.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\System.Web.WebPages.Razor.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Antlr3.Runtime.pdb
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Newtonsoft.Json.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\EntityFramework.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\EntityFramework.SqlServer.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AspNet.Identity.Core.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.Facebook.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.Cookies.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.OAuth.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.Google.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.Twitter.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.ApplicationInsights.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.DependencyCollector.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.WindowsServer.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\bin\Microsoft.AI.Web.xml
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\obj\Debug\NAA App.csproj.CoreCompileInputs.cache
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\obj\Debug\NAA App.dll
+F:\MyWork\Visual Studio 2017\Projects\NAA\NAA App\NAA App\obj\Debug\NAA App.pdb
